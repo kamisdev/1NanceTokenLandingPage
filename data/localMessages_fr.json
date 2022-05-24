@@ -1,0 +1,78 @@
+{
+    "slogan1": "Au revoir complexité",
+    "slogan2": "bienvenue simplicité",
+
+
+    "1NANCEExplainTitle": "Qu'est ce que le 1NANCE?",
+    "1NANCEExplain1": "1NANCE est un jeton BEP-20 utilisé sur la plateforme Ikalas.com comme porte d'entrée de l'accès premium.",
+    "1NANCEExplain2":"Le jeton 1NANCE est entièrement négociable et permet aux propriétaires d'obtenir des privilèges spécifiques sur la plateforme.",
+    "1NANCEExplain3":"Le 1NANCE est aussi une nouvelle façon de rentabiliser vos compétences en développement en créant des outils utiles pour la communauté.",
+
+    "Card1Title": "Non-mintable",
+    "Card2Title": "Quantité maximale",
+    "Card3Title": "Gagnable",
+    "Card1Desc": "Le 1NANCE n'est pas créable, la quantité maximale est fixe et non-modifiable",
+    "Card2Desc": "Le 1NANCE a été créé sur la blockchain BSC avec un approvisionnement maximum de 100 000 000 1NANCE.",
+    "Card3Desc": "Le 1NANCE peut être gagné par la communauté qui sert la plateforme.",
+
+    "IkalasExplainTitle": "Qu'est ce que Ikalas?",
+    "ImportantWord1":"Creation d'outils. ",
+    "ImportantWord2":"Utilisation d'outils. ",
+    "IkalasText1":" La plateforme Ikalas permet de créer des outils avec du code et de le déployer sous forme de module sur le site.",
+    "IkalasText2":" Utilisez les outils communautaires pour créer ce que vous voulez via l'interface du site Web ou l'interface de développement (à venir).",
+
+    "StatsTitle": "Le jeton 1NANCE",
+    "withNumbers" : "avec des chiffres",
+    "StatsText1" : "Nous avons permis à des milliers de personnes de construire plus facilement les projets de leurs rêves.",
+    "Label1":"pocesseurs",
+    "Label2":"transactions",
+    "Label3":"prix",
+    "DiscoverButton": "Découvrir le contrat",
+
+    "DistributionTitle": "Distribution du jeton",
+    "DistributionText1": "Le token 1NANCE est distribué sur la Binance SmartChain de la manière suivante :",
+
+    "NewsTitle": "Informations",
+    "NewsText1": "Lancement du site Web du 1NANCE",
+    "NewsText2": "Nouveau module sur Ikalas : créateur d'ERC20 pour le réseau BSC",
+    "NewsText3": "Nouveau module sur Ikalas : Multisender pour le réseau Polygon",
+    "NewsText4": "Nouveau module sur Ikalas : Multisender pour le réseau BSC",
+    "NewsText5": "Lancement de la Beta de Ikalas",
+
+    "NavLink1": "Le 1NANCE?",
+    "NavLink2": "Ikalas?",
+    "NavLink3": "Statistiques",
+    "NavLink4": "Roadmap",
+    "NavLink5": "Informations",
+    "LogButton": "Connexion avec MetaMask",
+    "LogButton2": "Connecté",
+
+
+    "RoadmapTitle": "Roadmap",
+    "RoadmapText1": "Lancement officiel du jeton 1NANCE",
+    "RoadmapText2": "Création de NFT sur Ikalas",
+    "RoadmapText3": "Création de token ERC-20 sur la blockchain Polygon et Ethereum sur Ikalas",
+    "RoadmapText4": "Création de token ERC-20 sur la blockchain BSC sur Ikalas",
+    "RoadmapText5": "Lancement du multisender pour le réseau Polygon sur Ikalas",
+    "RoadmapText6": "Création du multisender sur les réseaux BSC et ETH sur Ikalas",
+    "RoadmapText7": "Lancement de la version beta du site Ikalas",
+
+    "january": "Janvier",
+    "february": "Février",
+    "march": "Mars",
+    "april": "Avril",
+    "may": "Mai",
+    "june": "Juin",
+    "july": "Juillet",
+    "august": "Août",
+    "september": "Septembre",
+    "october": "Octobre",
+    "november": "Novembre",
+    "december": "Décembre",
+    "futur": "futur proche",
+
+    "FooterText": "Ikalas vous propose des applications pour gagner en efficacité."
+    
+
+}
+  

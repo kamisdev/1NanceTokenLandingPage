@@ -1,0 +1,78 @@
+{
+    "slogan1": "The 1NANCE vision is to build several decentralized financial applications (Defi - Apps) and then develop these products into full fledged projects thereby increasing the value of the 1NANCE ecosystem. With the uproar of several decentralized financial (Defi) products not having real use cases and simple methods of use, product usage has been difficult for Defi users especially because it requires vast understanding of the Ethereum blockchain. Another common problem is the false value which many Defi projects propose by building simple swap websites and then halting further development.",
+    "slogan2": "This makes it seem as though the Defi swap is all there is to offer but this is not so. The 1NANCE project and its decentralized team from different countries, promises to create a sustainable ecosystem by developing and building several Defi products around its platform and guarantees the ultimate true value of what a Defi project should be. 1NANCE is a community-driven blockchain project which aims to build severally Defi-applications on top of its platform with creative and disruptive blockchain Defi ideas, hence becoming the first cutting-edge Defi project worth emulating.",
+
+    "1NANCEExplainTitle": "What is the 1NANCE ?",
+    "1NANCEExplain1": "The 1NANCE envisions an ecosystem of several Defi applications (Defi DApps) built on Ethereum for usage by both the 1NANCE team of the 1NANCE project and the decentralized community of 1NANCE product users.",
+    "1NANCEExplain2":"With that said, 1NANCE Finance is a community driven Defi-project, orchestrated to build decentralized products, with the aim of producing real Defi values to improve the 1NANCE ecosystem for the community and its users",
+
+    "Card1Title": "1NANCE SOLUTIONS",
+    "Card2Title": "1NANCE MODEL",
+    "Card3Title": "1NANCE ECOSYSTEM",
+    "Card1Desc": "The main hindrance leading up to Defi’s inability to get mainstream attention is the fact that projects are not building intuitive Defi products that can be used even by newbies on blockchain to witness the full potential of decentralized finance and growth.",
+    "Card2Desc": "1NANCE will commence with building 4 flagship decentralized finance applications (Defi-Apps). These products will be fabricated such that token holders can utilize them seamlessly without hassles and newbies can easily be oriented for better usage.",
+    "Card3Desc": "Decentralized wallet, exchange, swap platform, stake. DeFi based DEX development, Decentralized insurance applications, Decentralized staking platform, Cryptocurrency Defi Wallet, DeFi based lending/borrowing Platform, Launchpad service",
+
+    "IkalasExplainTitle": "What is Ikalas ?",
+    "ImportantWord1":"Create tools. ",
+    "ImportantWord2":"Use tools. ",
+    "IkalasText1":" The Ikalas platform allows you to create tools with code and deploy it as a module on the website.",
+    "IkalasText2":" Use the community tools to create whatever you want by the website interface or the developpement interface (coming soon).",
+
+
+    "StatsTitle": "The 1NANCE Token",
+    "withNumbers" : "with numbers",
+    "StatsText1" : "We've made it easier for thousands of people to build their dream projects.",
+    "Label1":"holders",
+    "Label2":"transactions",
+    "Label3":"price",
+    "DiscoverButton": "Discover the contract",
+
+    "DistributionTitle": "Tokenomics",
+    "DistributionText1": "1NANCE Token is a governance token of the 1NANCE project. The token will be used to gain full access to all 1NANCE DeFi products. It is really a useful Token, It will have multiple usage fees, and we will build more Defi products on one ecosystem, So it will succeed in increasing its value permanently.",
+
+
+    "NewsTitle": "News",
+    "NewsText1": "1NANCE will employ result oriented modules like milestones, completed tasks and other measurement metrics to ensure transparency and to keep us in sync with our community as they are the major drivers of the project.",
+    "NewsText2": "1NANCE is a project that aims to build several Defi applications from vague thoughts into completed Defi applications. We are intent on developing platforms to help Defi get recognized by mainstream users.",
+    "NewsText3": "As we aim to accomplish our vision, we have set in place fascinating ways to maintain consistent execution of each goal by creating reward systems for members of the community, investors, and the general public.",
+    "NewsText4": "The consistency will be upheld by an efficiently coordinated management to systematize the ecosystem as well as a well thought-out business model to improve and add monetary values to the project in its entirety.",
+    "NewsText5": "The completion of each item on the roadmap will validate trust, our trust is the platform, the platform is our community",
+
+    "NavLink1": "HOME",
+    "NavLink2": "ABOUT",
+    "NavLink3": "Statistics",
+    "NavLink6": "Tokenomics",
+    "NavLink4": "Roadmap",
+    "NavLink5": "News",
+    "LogButton": "Connect",
+    "LogButton2": "Connected",
+
+
+    "RoadmapTitle": "Roadmap",
+    "RoadmapText1": "The first marketing campaign. 1NANCE Presale starts",
+    "RoadmapText2": "Launch of the first 1NANCE Defi platform. Start Listing on 3 reputable exchanges; Uniswap, bounce, 1inch",
+    "RoadmapText3": "Launch of the staking platform. Expand the network. Listing on more CMC Exchanges",
+    "RoadmapText4": "Launch of the Swap platform. Second Marketing Campaign. Planning and development of 1NANCE",
+    "RoadmapText5": "Development of Defi wallet. Launch of borrowing and lending. Roadmap update",
+
+    "january": "JAN",
+    "february": "FEB",
+    "march": "MAR",
+    "april": "APR",
+    "may": "MAY",
+    "june": "JUN",
+    "july": "JUL",
+    "august": "AUG",
+    "september": "SEP",
+    "october": "OCT",
+    "november": "NOV",
+    "december": "DEC",
+    "futur": "near future",
+
+    "FooterText": "1NANCE offers you apps to get more efficient.",
+
+    "btn1": "Buy now",
+    "btn2": "Chart"
+}
+  
